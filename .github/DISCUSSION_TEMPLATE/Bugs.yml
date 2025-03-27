@@ -1,4 +1,4 @@
-name: "Bug Report"
+name: "Bugs"
 description: "Report Zyxel Nebula OpenAPI bug"
 labels:
   - "bug"
